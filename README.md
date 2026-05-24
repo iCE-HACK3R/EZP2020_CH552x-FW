@@ -233,3 +233,6 @@ The original firmware identifies as:
 There is no way to back up the factory firmware via `wchisp` because it has no
 read/dump subcommand. To restore, you need an external copy of the original
 binary.
+
+## For seemless usage consider using FlashGUI
+- https://github.com/iCE-HACK3R/FlashGUI
