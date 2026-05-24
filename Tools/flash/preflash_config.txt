@@ -1,0 +1,2 @@
+16:10:17 [0m[34m[INFO] [0mOpening USB device #0
+16:10:17 [0m[33m[WARN] [0mIt's likely no WinUSB/LibUSB drivers installed. Please install it from Zadig. See also: https://zadig.akeo.ie

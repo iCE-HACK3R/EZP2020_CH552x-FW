@@ -1,0 +1,6 @@
+# Build intermediates and outputs
+build/
+
+# Final firmware binary (generated artefact)
+*.bin
+*.ihx
